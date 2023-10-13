@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Mephis Wanjiru</h1>
 <h3 align="center">A Software Engineer with a love for Innovation</h3>
