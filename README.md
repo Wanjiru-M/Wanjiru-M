@@ -5,7 +5,7 @@
 
 - 🔭 I'm actively working on expanding my **technical capabilities**
 
-- 🌱 I’m currently learning **DevOps and Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **wanjirumephis@gmail.com**
 
